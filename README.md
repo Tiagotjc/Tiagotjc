@@ -1,4 +1,4 @@
-### Olá, Eu sou o Tiago José
+### Olá, Eu sou o Tiago Andrade
 - 🔭 Desenvolvedor back end e front end
 - 🌱 Estudando python, js e php
  <div>
