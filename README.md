@@ -1,6 +1,6 @@
 ### Hello, My name is Tiago Andrade
-- 💻 Software Developer
-- 🎓 Computer Science Student at ISEL
+- 💻 Backend & Software Developer
+- 🎓 Informatics and Computer Engineering Student at ISEL
  <div>
  
 
