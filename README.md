@@ -1,6 +1,6 @@
-### Olá, Eu sou o Tiago Andrade
-- 🔭 Desenvolvedor back end e front end
-- 🌱 Estudando no ISEL
+### Hello, My name is Tiago Andrade
+- 💻 Software Developer
+- 🎓 Computer Science Student at ISEL
  <div>
  
 
